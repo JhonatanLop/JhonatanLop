@@ -1,7 +1,7 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
-- 🔭 Eu atualmente trabalho com Banco de Dados
-- 🌱 Estou aprendendo Python
+- 🔭 Eu atualmente trabalho com Banco de Dados em uma empresa de Geoprocessamento
+- 🌱 Estou aprendendo Python e pretendo ampliar para mais linguágens
 <div align="center">
   <a href="https://github.com/JhonatanLop">
   <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
