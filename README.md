@@ -1,7 +1,7 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
 - 🔭 Eu atualmente trabalho com Banco de Dados em uma empresa de Geoprocessamento
-- 🌱 Estou aprendendo Python e pretendo ampliar para mais linguágens
+- 🌱 Estou aprendendo Python e pretendo ampliar para mais linguagens
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
