@@ -4,9 +4,9 @@
 - 🌱 Estou aprendendo Python e pretendo ampliar para mais linguágens
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanlop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanlop&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JhonatanLop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   > Tecnologias e Linguagens conhecidas:
