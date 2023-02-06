@@ -5,10 +5,15 @@
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
 Sou responsável pela disponibilização de ferramentas dentro do nosso sistema e gerenciamento de perfis dos usuários.<br>
 > Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação e gerenciamento de geometrias).<br>
+
+Utilizo as linguágens:<br>
+  * PostgresSQL
+  * Javascript
+  
 <br>
 
 ### Histórico acadêmico
-- Etec
+- Etec <br>
 No ensino médio tive o ensino técnico integrado na área de programação<br>
 Tive introdução nas linguagens e tecnologias:<br>
   * Java 
@@ -17,8 +22,8 @@ Tive introdução nas linguagens e tecnologias:<br>
   * SQL (mysql)
 <br>
 
-* Fatec
-Estou cursando Banco de Dados na fatec de São José dos Campos
+* Fatec <br>
+Estou cursando Banco de Dados na fatec de São José dos Campos <br>
 Tive introdução às linguágens e tecnologias:<br>
   * Python
   * Metodologias ágeis (scrum)
