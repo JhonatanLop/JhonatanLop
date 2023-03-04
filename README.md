@@ -6,9 +6,10 @@ Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
 Sou responsável pela disponibilização de ferramentas dentro do nosso sistema e gerenciamento de perfis dos usuários.<br>
 > Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação e gerenciamento de geometrias).<br>
 
-Utilizo as linguágens:<br>
+Utilizo as linguágens e tecnologias:<br>
   * PostgresSQL
   * Javascript
+  * json
   
 <br>
 
