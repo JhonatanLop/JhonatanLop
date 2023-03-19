@@ -1,26 +1,34 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
 ### Histórico profissional
-- Estagiando na Geopixel (empresa de Geoprocessamento) <br>
+- Estagiário na Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
-Sou responsável pela disponibilização de ferramentas dentro do nosso sistema e gerenciamento de perfis dos usuários.<br>
-> Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação e gerenciamento de geometrias).<br>
+Sou responsável por:
+  - Gerenciamento de ferramentas dentro do sistema;
+  - Gerenciamento de perfis e usuários;
+  - Gerenciamento de Fluxo de processos.
+> Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação de geometrias).<br>
 
-Utilizo as linguágens e tecnologias:<br>
+Tenho contato com as tecnologias:<br>
   * PostgresSQL
   * Javascript
   * json
   
 <br>
 
-### Histórico acadêmico
+### Histórico acadêmico 🎓
 - Etec <br>
 No ensino médio tive o ensino técnico integrado na área de programação<br>
 Tive introdução nas linguagens e tecnologias:<br>
   * Java 
   * Javascript
-  * Desenvolvimento web (html/css/php/bootstrap)
+  * Desenvolvimento web
+    * html
+    * css
+    * php
+    * bootstrap
   * SQL (mysql)
+
 <br>
 
 * Fatec <br>
@@ -29,15 +37,41 @@ Tive introdução às linguágens e tecnologias:<br>
   * Python
   * Java
   * Metodologias ágeis (scrum)
-  * Versionamnto de código (git/GitHub)
+  * Versionamnto de código (git/GitHub)<br>
+  
 <br>
+
+
+* Projetos API:hammer: :
+  > Oque é API?<br>
+  > É um projeto semestral executado em parceria com uma empresa, onde ela fornece o problema e o grupo de estudantes a solução.
+  
+  <details>
+   <summary> 1º Semestre </summary>
+   👥  Grupo: Khali<br>
+   🎓  Fatec 1º Semestre - Banco de dados<br>
+   ✏️  Função: SCRUM Master<br>
+ 
+   🏢  Empresa: NULL <br>
+   🔭  [API 1º Semestre](https://github.com/taniacruzz/Khali/blob/main/README.md)
+ 
+  </details>
+  
+  <details>
+   <summary> 2º Semestre </summary>
+    👥  Grupo: Khali<br>
+    🎓  Fatec 2º Semestre - Banco de dados<br>
+    ✏️  Função: Dev<br>
+ 
+    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
+    🔭  [API 2º Semestre](https://github.com/projetoKhali/API2Semestre/blob/main/README.md)
+ 
+  </details>
 
 
 ### Sobre mim
 
-Estou acostumado a trabalhar em equipe e a aprender ferramentas novas.<br>
-Gosto de trabalhar meu desenvolvimento pessoal e profissional.<br>
-Gosto de criar programas, aplicações e qualquer outra coisa que estimule o cresimento e a troca de conhecimento<br>
+Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de trabalhar meu desenvolvimento pessoal e profissional, criar aplicações e pequenos programas que estimulem minha criatividade e a troca de conhecimento<br>
 <br>
 
 <div align="center">
