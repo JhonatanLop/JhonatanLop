@@ -23,21 +23,21 @@ Tive introdução nas linguagens e tecnologias:<br>
   * Java 
   * Javascript
   * Desenvolvimento web
-    * html
-    * css
-    * php
-    * bootstrap
-  * SQL (mysql)
+    * HTML
+    * CSS
+    * PHP
+    * BOOTSTRAP
+  * SQL (MySql)
 
 <br>
 
 * Fatec <br>
 Estou cursando Banco de Dados na fatec de São José dos Campos <br>
-Tive introdução às linguágens e tecnologias:<br>
+Tive introdução às linguagens e tecnologias:<br>
   * Python
   * Java
   * Metodologias ágeis (scrum)
-  * Versionamnto de código (git/GitHub)<br>
+  * Versionamento de código (git/GitHub)<br>
   
 <br>
 
