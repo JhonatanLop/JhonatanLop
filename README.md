@@ -95,7 +95,7 @@ Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de 
 </div>
 
 ##
- ![Snake animation](https://github.com/JhonatanLop/JhonatanLop/blob/output/github-contribution-grid-snake.svg)
+ ![](https://github.com/JhonatanLop/JhonatanLop/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
