@@ -95,6 +95,9 @@ Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de 
 </div>
 
 ##
+![](https://github.com/JhonatanLop/JhonatanLop/blob/output/github-contribution-grid-snake.svg)
+
+##
 
 <div> 
   <a href="https://instagram.com/jhonatan_lopes_lmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
