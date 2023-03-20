@@ -17,7 +17,7 @@ jobs:
           github_user_name: JhonatanLop
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#5075CA&color_dots=#3D294C,#AB1364,#C2185B,#E91E63,#F06292
+            dist/github-contribution-grid-snake.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
