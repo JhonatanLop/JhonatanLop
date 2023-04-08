@@ -1,5 +1,11 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="JhonatanLop" src="https://github-profile-trophy.vercel.app/?username=JhonatanLop&theme=algolia&no-bg=false&no-frame=true&column=-1"/>
+  </a>
+</p>
+
 ### Histórico profissional
 - Estagiário na Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
@@ -76,8 +82,8 @@ Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de 
 
 <div align="center">
   <a href="https://github.com/JhonatanLop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <br>
   
