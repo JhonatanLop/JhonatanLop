@@ -1,7 +1,7 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/JhonatanLop/JhonatanLop">
     <img alt="JhonatanLop" src="https://github-profile-trophy.vercel.app/?username=JhonatanLop&theme=algolia&no-bg=true&no-frame=true&column=-1"/>
   </a>
 </p>
