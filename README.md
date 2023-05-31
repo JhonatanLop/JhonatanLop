@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/5d6be385-bd72-486b-b20a-8953283042e4)
+
 ### Histórico profissional
 - Estagiário na Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
