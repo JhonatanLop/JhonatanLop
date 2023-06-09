@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/5d6be385-bd72-486b-b20a-8953283042e4)
+![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/f4e26c2b-c87c-4cff-9f69-b0a4fdb9bccb)
 
 - ### Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
@@ -23,7 +23,7 @@ Tenho contato com as tecnologias:<br>
   
 <br>
 
-![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/65e48f9b-b8ae-4581-b96f-1977810a8033)
+![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/4486c1d8-44dc-4d01-bd90-66eda085ec65)
 
 - Etec 🎓<br>
 No ensino técnico integrado ao ensino médio na área de desenvolvimento de sóftware web, desktop e mobile<br>
