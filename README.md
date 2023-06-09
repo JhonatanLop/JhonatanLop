@@ -8,8 +8,7 @@
 
 ![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/5d6be385-bd72-486b-b20a-8953283042e4)
 
-### Histórico profissional
-- Estagiário na Geopixel :earth_americas: <br>
+- ### Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
 Sou responsável por:
   - Gerenciamento de ferramentas dentro do sistema;
@@ -24,11 +23,12 @@ Tenho contato com as tecnologias:<br>
   
 <br>
 
-### Histórico acadêmico 🎓
-- Etec <br>
-No ensino médio tive o ensino técnico integrado na área de programação<br>
+![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/65e48f9b-b8ae-4581-b96f-1977810a8033)
+
+- Etec 🎓<br>
+No ensino técnico integrado ao ensino médio na área de desenvolvimento de sóftware web, desktop e mobile<br>
 Tive introdução nas linguagens e tecnologias:<br>
-  * Java 
+  * Java
   * Javascript
   * Desenvolvimento web
     * HTML
@@ -39,16 +39,18 @@ Tive introdução nas linguagens e tecnologias:<br>
 
 <br>
 
-* Fatec <br>
-Estou cursando Banco de Dados na fatec de São José dos Campos <br>
-Tive introdução às linguagens e tecnologias:<br>
+- Fatec 🎓<br>
+Atualmente cursando Banco de Dados na fatec de São José dos Campos <br>
+Tive contato com às linguagens e tecnologias:<br>
   * Python
   * Java
+  * PostgreSQL
+  * JSON
+  * Figma (Design e fluxo de projeto)
   * Metodologias ágeis (scrum)
   * Versionamento de código (git/GitHub)<br>
   
 <br>
-
 
 * Projetos API:hammer: :
   > Oque é API?<br>
@@ -62,6 +64,7 @@ Tive introdução às linguagens e tecnologias:<br>
  
    🏢  Empresa: NULL <br>
    🔭  [API 1º Semestre](https://github.com/taniacruzz/Khali/blob/main/README.md)
+   ⚙️  Objetivo: Sistema de Avaliação 360º
  
   </details>
   
@@ -73,9 +76,9 @@ Tive introdução às linguagens e tecnologias:<br>
  
     🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
     🔭  [API 2º Semestre](https://github.com/projetoKhali/API2Semestre/blob/main/README.md)
+    ⚙️  Objetivo: Sistema de Apontamento de Horas
  
   </details>
-
 
 ### Sobre mim
 
@@ -108,6 +111,6 @@ Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de 
 ##
 
 <div> 
-  <a href="https://instagram.com/jhonatan_lopes_lmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jhonatan_olive_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhooliveira.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
