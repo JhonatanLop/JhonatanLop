@@ -86,6 +86,15 @@ Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de 
 <br>
 
 <div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=JhonatanLop&theme=algolia"
+      media="(prefers-color-scheme: dark)"/>
+    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JhonatanLop&mode=weekly" />
+  </picture><br/>
+</div>
+
+<div align="center">
   <a href="https://github.com/JhonatanLop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=compact&langs_count=10&theme=algolia"/>
