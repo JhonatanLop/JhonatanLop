@@ -8,7 +8,7 @@
 
 ![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/f4e26c2b-c87c-4cff-9f69-b0a4fdb9bccb)
 
-- ### Geopixel :earth_americas: <br>
+- ## Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
 Sou responsável por:
   - Gerenciamento de ferramentas dentro do sistema;
@@ -25,7 +25,7 @@ Tenho contato com as tecnologias:<br>
 
 ![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/4486c1d8-44dc-4d01-bd90-66eda085ec65)
 
-- Etec 🎓<br>
+- ## Etec 🎓<br>
 No ensino técnico integrado ao ensino médio na área de desenvolvimento de sóftware web, desktop e mobile<br>
 Tive introdução nas linguagens e tecnologias:<br>
   * Java
@@ -39,7 +39,7 @@ Tive introdução nas linguagens e tecnologias:<br>
 
 <br>
 
-- Fatec 🎓<br>
+- ## Fatec 🎓<br>
 Atualmente cursando Banco de Dados na fatec de São José dos Campos <br>
 Tive contato com às linguagens e tecnologias:<br>
   * Python
