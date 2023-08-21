@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/JhonatanLop">
+  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=donut&langs_count=80&theme=algolia"/>
+</div>
+
+<br>
+<br>
+
 ![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/f4e26c2b-c87c-4cff-9f69-b0a4fdb9bccb)
 
 - ## Geopixel :earth_americas: <br>
@@ -85,20 +94,6 @@ Tive contato com às linguagens e tecnologias:<br>
 Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de trabalhar meu desenvolvimento pessoal e profissional, criar aplicações e pequenos programas que estimulem minha criatividade e a troca de conhecimento<br>
 <br>
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=JhonatanLop&theme=algolia"
-      media="(prefers-color-scheme: dark)"/>
-    <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JhonatanLop&mode=weekly" />
-  </picture><br/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JhonatanLop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=compact&langs_count=10&theme=algolia"/>
-</div>
 <br>
   
   > Tecnologias e Linguagens conhecidas:
