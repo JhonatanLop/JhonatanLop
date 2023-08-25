@@ -19,14 +19,17 @@
 
 - ## Geopixel :earth_americas: <br>
 Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
+<br>
 Sou responsável por:
-  - Gerenciamento de ferramentas dentro do sistema;
-  - Gerenciamento de perfis e usuários;
-  - Gerenciamento de Fluxo de processos.
+- modelar o produto de acordo com a necessidade do cliente utilizando as funções desenvolvidas pela equipe de desenvolvimento
+- Organização do banco de dados da base dos clientes
+- Criação de Querys para manipulação e tratamento de dados
+- Criação e evolutiva de Views, tabelas cruzadas e subselects
+  
 > Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação de geometrias).<br>
 
 Tenho contato com as tecnologias:<br>
-  * PostgresSQL
+  * PostgresSQL 
   * Javascript
   * json
   
@@ -43,7 +46,6 @@ Tive introdução nas linguagens e tecnologias:<br>
     * HTML
     * CSS
     * PHP
-    * BOOTSTRAP
   * SQL (MySql)
 
 <br>
@@ -52,18 +54,17 @@ Tive introdução nas linguagens e tecnologias:<br>
 Atualmente cursando Banco de Dados na fatec de São José dos Campos <br>
 Tive contato com às linguagens e tecnologias:<br>
   * Python
-  * Java
+  * Java e Spring Boot
   * PostgreSQL
-  * JSON
   * Figma (Design e fluxo de projeto)
   * Metodologias ágeis (scrum)
-  * Versionamento de código (git/GitHub)<br>
+  * git/GitHub para Versionamento do código
   
 <br>
 
 * Projetos API:hammer: :
   > Oque é API?<br>
-  > É um projeto semestral executado em parceria com uma empresa, onde ela fornece o problema e o grupo de estudantes a solução.
+  > É um projeto semestral proposto pela Fatec de São José dos Campos que é executado em parceria com uma empresa, onde ela fornece o problema e o grupo de estudantes a solução.
   
   <details>
    <summary> 1º Semestre </summary>
@@ -91,7 +92,9 @@ Tive contato com às linguagens e tecnologias:<br>
 
 ### Sobre mim
 
-Estou acostumado a trabalhar em equipe e a aprender ferramentas novas, gosto de trabalhar meu desenvolvimento pessoal e profissional, criar aplicações e pequenos programas que estimulem minha criatividade e a troca de conhecimento<br>
+*Jovem apaixonado pela arte da programação... venho de família humilde em uma cidade do interior do estado de São Paulo sem muito acesso a educação de qualidade. Mas isso não me impediu de ir atrás do meu sonho!<br>
+Me formei Técnico em Informática aos 17 anos pela Etec de Jaú onde aprendi mais sobre a arte de desenvolver e onde descobri minha profissão dos sonhos. Aos 18 anos me mudei para São José dos Campos para estudar Matemática no Instituto Federal. Lá fiquei por apenas um semestre, após isso decidi voltar para minha área de pertencimento que é a área de Tecnologia da Informação. Escolhi a FATEC a conselho do meu orientado/professor e pela reputação de formar bons profissionais da área. Na Fatec escolhi o curso de Banco de Dados pelo foco em programação Back-End que atualmente julgo ser a parte que mais me interessa e pela parte de Banco de Dados e API.<br>
+Na Faculdade tive e ainda estou tendo a experiência incrível de desenvolver projetos inteiros e complexos com meus amigos e colegas equipe.<br>*
 <br>
 
 <br>
