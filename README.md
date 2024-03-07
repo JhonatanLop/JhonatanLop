@@ -1,5 +1,12 @@
 ## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
 
+<div align="center">
+  <img height="260em" alig src="https://github.com/JhonatanLop/JhonatanLop/assets/111443621/29e53362-8eeb-4ab2-af47-0fa9bdb609a4">
+  <p>Jhonatan Oliveira Lopes</p>
+  <br>
+  
+  </div>
+
 <p align="center">
   <a href="https://github.com/JhonatanLop/JhonatanLop">
     <img alt="JhonatanLop" src="https://github-profile-trophy.vercel.app/?username=JhonatanLop&theme=algolia&no-bg=true&no-frame=true&column=-1"/>
