@@ -1,11 +1,4 @@
-## Olá! eu sou Jhonatan, estudante de programação Front-end e Back-end
-
-<div align="center">
-  <img height="260em" alig src="https://github.com/JhonatanLop/JhonatanLop/assets/111443621/29e53362-8eeb-4ab2-af47-0fa9bdb609a4">
-  <p>Jhonatan Oliveira Lopes</p>
-  <br>
-  
-  </div>
+## Olá! eu sou Jhonatan, Programador Back-end e Banco de Dados
 
 <p align="center">
   <a href="https://github.com/JhonatanLop/JhonatanLop">
@@ -53,6 +46,7 @@ Tive introdução nas linguagens e tecnologias:<br>
     * HTML
     * CSS
     * PHP
+    * JS
   * SQL (MySql)
 
 <br>
@@ -61,24 +55,24 @@ Tive introdução nas linguagens e tecnologias:<br>
 Atualmente cursando Banco de Dados na fatec de São José dos Campos <br>
 Tive contato com às linguagens e tecnologias:<br>
   * Python
-  * Java e Spring Boot
+  * Java / Spring Boot
   * PostgreSQL
-  * Figma (Design e fluxo de projeto)
+  * Oracle
   * Metodologias ágeis (scrum)
-  * git/GitHub para Versionamento do código
+  * git/GitHub
+  * Design Patterns
+  * API/restful
+  * Banco de dados distribuídos
   
 <br>
 
-* Projetos API:hammer: :
+* Projetos API 🔨:
   > Oque é API?<br>
   > É um projeto semestral proposto pela Fatec de São José dos Campos que é executado em parceria com uma empresa, onde ela fornece o problema e o grupo de estudantes a solução.
   
   <details>
    <summary> 1º Semestre </summary>
-   👥  Grupo: Khali<br>
-   🎓  Fatec 1º Semestre - Banco de dados<br>
    ✏️  Função: SCRUM Master<br>
- 
    🏢  Empresa: NULL <br>
    🔭  [API 1º Semestre](https://github.com/taniacruzz/Khali/blob/main/README.md)
    ⚙️  Objetivo: Sistema de Avaliação 360º
@@ -87,19 +81,31 @@ Tive contato com às linguagens e tecnologias:<br>
   
   <details>
    <summary> 2º Semestre </summary>
-    👥  Grupo: Khali<br>
-    🎓  Fatec 2º Semestre - Banco de dados<br>
-    ✏️  Função: Dev<br>
- 
+    ✏️  Função: Desenvolvedor<br>
     🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
     🔭  [API 2º Semestre](https://github.com/projetoKhali/API2Semestre/blob/main/README.md)
     ⚙️  Objetivo: Sistema de Apontamento de Horas
- 
+  </details>
+
+  <details>
+      <summary> 2º Semestre </summary>
+    ✏️  Função: Product Owner<br>
+    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
+    🔭  [API 3º Semestre](https://github.com/projetoKhali/api3)
+    ⚙️  Objetivo: Sistema de Apontamento de Horas - usando Spring boot
+  </details>
+  
+  <details>
+      <summary> 4º Semestre </summary>
+    ✏️  Função: Desenvolvedor<br>
+    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
+    🔭  [API 3º Semestre](https://github.com/projetoKhali/api4/blob/main/README.md)
+    ⚙️  Objetivo: Criação de um sistema de análise de parcerias.<br>
   </details>
 
 ### Sobre mim
 
-*Jovem apaixonado pela arte da programação...<br> venho de família humilde em uma cidade do interior do estado de São Paulo sem muito acesso a educação de qualidade. Mas isso não me impediu de ir atrás do meu sonho. Me formei Técnico em Informática aos 17 anos pela Etec de Jaú onde aprendi sobre programação e banco dedados que hoje é minha profissão dos sonhos. Aos 18 anos me mudei para São José dos Campos para estudar Matemática no Instituto Federal. Lá fiquei por apenas um semestre, após isso decidi voltar para minha área de pertencimento e Escolhi a FATEC a conselho do meu orientado/professor e pela reputação de formar bons profissionais da área. Na Fatec escolhi o curso de Banco de Dados pelo foco em programação Back-End e desenvolvimento de Banco de Dados e APIs. Atualmente estou no quarto semestre com mais da metade do curso completo com planos de me formar em 2025, cada semestre com experiências incríveis e projetos em grupo, grupo esse dos quais hoje são meus melhor. Atualmente estou no quarto semestre e tive várias experiências incríveis desenvolvendo projetos inteiros em grupo através dos trabalhos de Aprendizagem a partir de Projeto Integrador (API's) que é uma característica da fatec<br>*
+*Jovem apaixonado por programação...<br> venho do interior do estado de São Paulo em uma cidade pequena. Me formei Técnico em Informática aos 17 anos pela Etec de Jaú onde aprendi sobre programação e banco dedados e durante o curso me desenvolvi, criando gosto e paixão. Aos 19 anos me mudei para São José dos Campos para Fazer minha graduação na área de computação. Escolhi a FATEC a conselho de vários amigos e pela reputação da instuição de formar profissionais capases. Na Fatec escolhi o curso de Banco de Dados pelo foco em programação Back-End, desenvolvimento de Banco de Dados e APIs. Atualmente estou no quinto semestre com mais da metade do curso completo com planos de me formar em 2025, cada semestre com experiências incríveis e projetos em grupo, grupo esse de pessoas que hoje são meus melhores amigos. Tive e estou tendo várias experiências incríveis no desenvolvendo projetos com meu grupo através dos trabalhos de Aprendizagem a partir de Projeto Integrador (API's) que é uma característica da fatec onde criamos soluções reais para empresas parceiras da instituição.<br> No momento estou procurando um trabalho na área afim de melhorar minhas habilidades e me testar em um ambiente profissional*
 <br>
 
 <br>
