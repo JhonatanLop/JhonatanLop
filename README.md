@@ -75,32 +75,41 @@ Tive contato com às linguagens e tecnologias:<br>
    <summary> 1º Semestre </summary>
    ✏️  Função: SCRUM Master<br>
    🏢  Empresa: NULL <br>
-   🔭  [API 1º Semestre](https://github.com/taniacruzz/Khali/blob/main/README.md)
+   🔭  <a href="https://github.com/taniacruzz/Khali/blob/main/README.md">API 1ºSemestre</a><br>
    ⚙️  Objetivo: Sistema de Avaliação 360º
   </details>
   
   <details>
    <summary> 2º Semestre </summary>
     ✏️  Função: Desenvolvedor<br>
-    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
-    🔭  [API 2º Semestre](https://github.com/projetoKhali/API2Semestre/blob/main/README.md)
+    🏢  Empresa: 2RP NET<br>
+    🔭  <a href="https://github.com/projetoKhali/API2Semestre/blob/main/README.md">API 2ºSemestre</a><br>
     ⚙️  Objetivo: Sistema de Apontamento de Horas
   </details>
 
   <details>
       <summary> 3º Semestre </summary>
     ✏️  Função: Product Owner<br>
-    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
-    🔭  [API 3º Semestre](https://github.com/projetoKhali/api3)
+    🏢  Empresa: 2RP NET<br>
+    🔭  <a href="https://github.com/projetoKhali/api3/blob/main/README.md"> API 3ºSemestre<a></a><br>
     ⚙️  Objetivo: Sistema de Apontamento de Horas - usando Spring boot
   </details>
   
   <details>
       <summary> 4º Semestre </summary>
     ✏️  Função: Desenvolvedor<br>
-    🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
-    🔭  [API 3º Semestre](https://github.com/projetoKhali/api4/blob/main/README.md)
+    🏢  Empresa: Oracle<br>
+    🔭  <a href="https://github.com/projetoKhali/api4/blob/main/README.md">API 4ºSemestre</a><br>
     ⚙️  Objetivo: Criação de um sistema de análise de parcerias.<br>
+  </details>
+
+  
+  <details>
+      <summary> 5º Semestre </summary>
+    ✏️  Função: Scrum Master<br>
+    🏢  Empresa: Pro4Tech<br>
+    🔭  <a href="https://github.com/projetoKhali/api5/blob/main/README.md">API 5ºSemestre</a><br>
+    ⚙️  Objetivo: Criação de um dashboard para análise de processos seletivos.<br>
   </details>
 
 ### Sobre mim
@@ -133,6 +142,7 @@ Tive contato com às linguagens e tecnologias:<br>
 ##
 
 <div> 
-  <a href="https://instagram.com/jhonatan_olive_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jhooliveira.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jhonatan_olive_lopes"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jhonatan-o-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jhooliveira.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
