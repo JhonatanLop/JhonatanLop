@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/JhonatanLop">
   <img height="260em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=donut&langs_count=6&theme=algolia"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=donut&langs_count=6&theme=algolia"/>
 </div>
 
 <br>
@@ -18,15 +18,16 @@
 ![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/f4e26c2b-c87c-4cff-9f69-b0a4fdb9bccb)
 
 - ## Geopixel :earth_americas: <br>
-Trabalho com a manipulação do banco de dados da empresa e dos clientes.<br>
-<br>
-Sou responsável por:
+Analista de implantação<br>
+> 09/2021 -> 09/2022
+
+Fui responsável por:
 - modelar o produto de acordo com a necessidade do cliente utilizando as funções desenvolvidas pela equipe de desenvolvimento
 - Organização do banco de dados da base dos clientes
 - Criação de Querys para manipulação e tratamento de dados
 - Criação e evolutiva de Views, tabelas cruzadas e subselects
   
-> Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação de geometrias).<br>
+ Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação de geometrias).<br>
 
 Tenho contato com as tecnologias:<br>
   * PostgresSQL 
@@ -38,7 +39,7 @@ Tenho contato com as tecnologias:<br>
 ![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/4486c1d8-44dc-4d01-bd90-66eda085ec65)
 
 - ## Etec 🎓<br>
-No ensino técnico integrado ao ensino médio na área de desenvolvimento de sóftware web, desktop e mobile<br>
+No ensino técnico integrado ao ensino médio na área de desenvolvimento de software web, desktop e mobile<br>
 Tive introdução nas linguagens e tecnologias:<br>
   * Java
   * Javascript
@@ -68,7 +69,7 @@ Tive contato com às linguagens e tecnologias:<br>
 
 * Projetos API 🔨:
   > Oque é API?<br>
-  > É um projeto semestral proposto pela Fatec de São José dos Campos que é executado em parceria com uma empresa, onde ela fornece o problema e o grupo de estudantes a solução.
+  > *Aprendizagem por Projeto Integrador* é um projeto semestral com empresas parceiras da institução FATEC, onde ela fornece um problema e os alunos se juntam em times e desenvolvem uma solução.
   
   <details>
    <summary> 1º Semestre </summary>
@@ -76,7 +77,6 @@ Tive contato com às linguagens e tecnologias:<br>
    🏢  Empresa: NULL <br>
    🔭  [API 1º Semestre](https://github.com/taniacruzz/Khali/blob/main/README.md)
    ⚙️  Objetivo: Sistema de Avaliação 360º
- 
   </details>
   
   <details>
@@ -88,7 +88,7 @@ Tive contato com às linguagens e tecnologias:<br>
   </details>
 
   <details>
-      <summary> 2º Semestre </summary>
+      <summary> 3º Semestre </summary>
     ✏️  Função: Product Owner<br>
     🏢  Empresa: [2RP NET](https://www.2rpnet.com.br/pt) <br>
     🔭  [API 3º Semestre](https://github.com/projetoKhali/api3)
@@ -107,7 +107,6 @@ Tive contato com às linguagens e tecnologias:<br>
 
 *Jovem apaixonado por programação...<br> venho do interior do estado de São Paulo em uma cidade pequena. Me formei Técnico em Informática aos 17 anos pela Etec de Jaú onde aprendi sobre programação e banco dedados e durante o curso me desenvolvi, criando gosto e paixão. Aos 19 anos me mudei para São José dos Campos para Fazer minha graduação na área de computação. Escolhi a FATEC a conselho de vários amigos e pela reputação da instuição de formar profissionais capases. Na Fatec escolhi o curso de Banco de Dados pelo foco em programação Back-End, desenvolvimento de Banco de Dados e APIs. Atualmente estou no quinto semestre com mais da metade do curso completo com planos de me formar em 2025, cada semestre com experiências incríveis e projetos em grupo, grupo esse de pessoas que hoje são meus melhores amigos. Tive e estou tendo várias experiências incríveis no desenvolvendo projetos com meu grupo através dos trabalhos de Aprendizagem a partir de Projeto Integrador (API's) que é uma característica da fatec onde criamos soluções reais para empresas parceiras da instituição.<br> No momento estou procurando um trabalho na área afim de melhorar minhas habilidades e me testar em um ambiente profissional*
 <br>
-
 <br>
   
   > Tecnologias e Linguagens conhecidas:
