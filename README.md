@@ -114,8 +114,9 @@ Tive contato com às linguagens e tecnologias:<br>
 
 ### Sobre mim
 
-*Jovem apaixonado por programação...<br> venho do interior do estado de São Paulo em uma cidade pequena. Me formei Técnico em Informática aos 17 anos pela Etec de Jaú onde aprendi sobre programação e banco dedados e durante o curso me desenvolvi, criando gosto e paixão. Aos 19 anos me mudei para São José dos Campos para Fazer minha graduação na área de computação. Escolhi a FATEC a conselho de vários amigos e pela reputação da instuição de formar profissionais capases. Na Fatec escolhi o curso de Banco de Dados pelo foco em programação Back-End, desenvolvimento de Banco de Dados e APIs. Atualmente estou no quinto semestre com mais da metade do curso completo com planos de me formar em 2025, cada semestre com experiências incríveis e projetos em grupo, grupo esse de pessoas que hoje são meus melhores amigos. Tive e estou tendo várias experiências incríveis no desenvolvendo projetos com meu grupo através dos trabalhos de Aprendizagem a partir de Projeto Integrador (API's) que é uma característica da fatec onde criamos soluções reais para empresas parceiras da instituição.<br> No momento estou procurando um trabalho na área afim de melhorar minhas habilidades e me testar em um ambiente profissional*
-<br>
+*Sou um desenvolvedor Back-End com foco em Banco de Dados e APIs, atualmente cursando Banco de Dados na FATEC São José dos Campos. Minha trajetória na área começou com minha formação técnica em Informática pela Etec de Jaú, onde tive meu primeiro contato com programação e bancos de dados.
+
+Minha experiência acadêmica tem sido marcada por projetos práticos e colaborativos, especialmente no desenvolvimento de sistemas completos por meio da metodologia de Aprendizagem por Projeto Integrador (API). Tenho interesse em soluções eficientes para armazenamento e manipulação de dados, sempre buscando aprimorar minhas habilidades técnicas e contribuir para projetos de alto impacto.*
 <br>
   
   > Tecnologias e Linguagens conhecidas:
