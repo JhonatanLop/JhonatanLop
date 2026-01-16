@@ -1,40 +1,8 @@
 ## Olá! eu sou Jhonatan, Programador Back-end e Banco de Dados
 
-<p align="center">
-  <a href="https://github.com/JhonatanLop/JhonatanLop">
-    <img alt="JhonatanLop" src="https://github-profile-trophy.vercel.app/?username=JhonatanLop&theme=algolia&no-bg=true&no-frame=true&column=-1"/>
-  </a>
-</p>
+## Histórico acadêmico
 
-<div align="center">
-  <a href="https://github.com/JhonatanLop">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=JhonatanLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLop&layout=donut&langs_count=6&theme=algolia"/>
-</div>
-
-<br>
-<br>
-
-- ## Geopixel <br>
-Analista de implantação<br>
-> 09/2021 -> 09/2022
-
-Fui responsável por:
-- modelar o produto de acordo com a necessidade do cliente utilizando as funções desenvolvidas pela equipe de desenvolvimento
-- Organização do banco de dados da base dos clientes
-- Criação de Querys para manipulação e tratamento de dados
-- Criação e evolutiva de Views, tabelas cruzadas e subselects
-  
- Utilizo software Dbeaver e conexões PostgresSQL em conjunto com a extensão postgis (extensão usada para manipulação de geometrias).<br>
-
-Tenho contato com as tecnologias:<br>
-  * PostgresSQL 
-  * Javascript
-  * json
-  
-<br>
-
-- ## Etec 🎓<br>
+- ### Etec 🎓<br>
 No ensino técnico integrado ao ensino médio na área de desenvolvimento de software web, desktop e mobile<br>
 Tive introdução nas linguagens e tecnologias:<br>
   * Java
@@ -48,8 +16,8 @@ Tive introdução nas linguagens e tecnologias:<br>
 
 <br>
 
-- ## Fatec 🎓<br>
-Atualmente cursando Banco de Dados na fatec de São José dos Campos <br>
+- ### Fatec 🎓<br>
+Banco de Dados na fatec de São José dos Campos <br>
 Tive contato com às linguagens e tecnologias:<br>
   * Python
   * Java / Spring Boot
