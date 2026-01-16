@@ -15,9 +15,7 @@
 <br>
 <br>
 
-![Histórico Profissional](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/f4e26c2b-c87c-4cff-9f69-b0a4fdb9bccb)
-
-- ## Geopixel :earth_americas: <br>
+- ## Geopixel <br>
 Analista de implantação<br>
 > 09/2021 -> 09/2022
 
@@ -35,8 +33,6 @@ Tenho contato com as tecnologias:<br>
   * json
   
 <br>
-
-![Histórico Acadêmico](https://github.com/JhonatanLop/JhonatanLop/assets/111443621/4486c1d8-44dc-4d01-bd90-66eda085ec65)
 
 - ## Etec 🎓<br>
 No ensino técnico integrado ao ensino médio na área de desenvolvimento de software web, desktop e mobile<br>
